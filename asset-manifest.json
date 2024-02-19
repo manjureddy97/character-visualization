@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/character-visualization/static/css/main.26956308.css",
+    "main.js": "/character-visualization/static/js/main.b5343acb.js",
+    "index.html": "/character-visualization/index.html",
+    "main.26956308.css.map": "/character-visualization/static/css/main.26956308.css.map",
+    "main.b5343acb.js.map": "/character-visualization/static/js/main.b5343acb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26956308.css",
+    "static/js/main.b5343acb.js"
+  ]
+}
