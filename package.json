@@ -1,5 +1,5 @@
 {
-    "homepage": "https://manjureddy97.github.io/character-visualization/",
+  "homepage": "https://manjureddy97.github.io/character-visualization",
   "name": "character-visualization",
   "version": "0.1.0",
   "private": true,
@@ -40,7 +40,7 @@
       "last 1 safari version"
     ]
   },
-   "devDependencies": {
+  "devDependencies": {
     "gh-pages": "^6.1.1"
   }
 }
